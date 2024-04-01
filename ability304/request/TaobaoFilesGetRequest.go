@@ -1,7 +1,7 @@
 package request
 
 import (
-        "topsdk/util"
+        "github.com/fengyuqin/topsdk/util"
     )
 
 type TaobaoFilesGetRequest struct {

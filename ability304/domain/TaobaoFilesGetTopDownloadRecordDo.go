@@ -1,7 +1,7 @@
 package domain
 
 import (
-        "topsdk/util"
+        "github.com/fengyuqin/topsdk/util"
     )
 
 type TaobaoFilesGetTopDownloadRecordDo struct {

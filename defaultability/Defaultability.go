@@ -3,10 +3,10 @@ package defaultability
 import (
     "log"
     "errors"
-    "topsdk"
-    "topsdk/defaultability/request"
-    "topsdk/defaultability/response"
-    "topsdk/util"
+    "github.com/fengyuqin/topsdk"
+    "github.com/fengyuqin/topsdk/defaultability/request"
+    "github.com/fengyuqin/topsdk/defaultability/response"
+    "github.com/fengyuqin/topsdk/util"
 )
 
 type Defaultability struct {

@@ -3,10 +3,10 @@ package ability304
 import (
     "log"
     "errors"
-    "topsdk"
-    "topsdk/ability304/request"
-    "topsdk/ability304/response"
-    "topsdk/util"
+    "github.com/fengyuqin/topsdk"
+    "github.com/fengyuqin/topsdk/ability304/request"
+    "github.com/fengyuqin/topsdk/ability304/response"
+    "github.com/fengyuqin/topsdk/util"
 )
 
 type Ability304 struct {

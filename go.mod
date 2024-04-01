@@ -1,3 +1,3 @@
-module topsdk
+module github.com/fengyuqin/topsdk
 
-go 1.16
+go 1.19

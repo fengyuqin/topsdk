@@ -1,7 +1,7 @@
 package response
 
 import (
-    "topsdk/ability304/domain"
+    "github.com/fengyuqin/topsdk/ability304/domain"
 )
 
 type TaobaoFilesGetResponse struct {
